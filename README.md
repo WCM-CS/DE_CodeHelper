@@ -1,1 +1,8 @@
 # DE_CodeHelper
+
+Take chatgpt wrapper as base GPT model and execute SFT to tune it for specific data engineering purposes so it can easily return documentation from popular frameworks and API's. 
+
+Documentations to be used include:
+-  Taskflow
+-  Spark
+-  Global s&p api
