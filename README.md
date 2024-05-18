@@ -5,4 +5,4 @@ Take chatgpt wrapper as base GPT model and execute SFT to tune it for specific d
 Documentations to be used in tuning include:
 -  Taskflow
 -  Spark
--  Global s&p api
+
